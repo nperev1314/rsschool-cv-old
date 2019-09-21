@@ -60,14 +60,14 @@ h1 {
     font-weight: 700;
 }    
 ```
-## **Education**
+## ***Education***
 _______________________
 + EPAM online courses on web auto testing; 
 + HTML Academy / Codeacademy online courses;
 + self-education (https://javascript.ru).
 
-## **English Skills**
+## ***English Skills***
 ______________________________________
-B2 (Upper Intermediate). 3 years of experiance writing scientific articles, technical documentation. Confident spoken English.
+**B2** (Upper Intermediate). 3 years of experiance writing scientific articles, technical documentation. Confident spoken English.
 
 
