@@ -1,8 +1,9 @@
-.wrapper {
+header,
+main {
     max-width: 1024px;
-    text-align: center;
     margin-top: 0;
     margin: auto;
+    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -21,9 +22,24 @@ h1 {
     border: 5px solid gray;
 }
 
+h2 { 
+    margin-bottom: 0;
+    background-color: aquamarine;
+   
+}
+
 .contact_info {
     display: inline-block;
     width: 100%;
     margin: auto;
-    background-color: Azure;
+}
+
+.skills {
+
+
+}
+
+.skills ul {
+    display: inline-block;
+    text-align: left;
 }
